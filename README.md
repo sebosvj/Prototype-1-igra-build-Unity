@@ -1,8 +1,8 @@
-#Komande za igru
-#Prvi igrač:
+# Komande za igru
+# Prvi igrač:
 #  Kretanje - WASD
 #  Promjena kamere - SPACE
-#Drugi igrač:
+# Drugi igrač:
 #  Kretanje - STRELICE
 #  Promjena kamere - 0
-#Komanda za reset - R
+# Komanda za reset - R
